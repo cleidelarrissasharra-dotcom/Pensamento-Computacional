@@ -1,0 +1,6 @@
+{
+  "name": "SinalizaFLV",
+  "description": "Sistema de triagem e direcionamento de prateleiras físicas para produtos FLV com base na validade restante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
